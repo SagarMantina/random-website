@@ -1,0 +1,112 @@
+
+
+body{
+    margin:0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+
+    font-family: 'Sacramento', cursive;
+    font-size: 3rem;
+    margin-top: 40px;
+    color:#66BFBF;
+    
+}
+h2{
+    font-family: 'Ubuntu', sans-serif;
+    font-size:2.5rem;
+    font-weight: normal;
+    color:#66BFBF;
+  
+}
+h3{
+    font-family: 'Arimo', sans-serif;
+    color: #11999E;
+}
+
+.ucloud{
+
+    position: absolute;
+    right:300px;
+    top: 10px;
+}
+
+.dcloud{
+    position:absolute;
+    left: 300px;
+    top: 300px;
+}
+
+
+
+.pers{
+
+    background-color: rgb(202, 220, 231);
+    position: relative;
+    padding-top: 100px;
+     
+
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.bottom-container{
+    background-color: #11999E;
+}
+
+
+.h{
+
+    background-color: greenyellow;
+}
+.name{
+
+    margin-top:50px;
+}
+
+.bottom-container{
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+
+hr{
+
+ border: dotted black;
+ border-bottom: none;
+ border-width: 7px;
+ width:4%;
+
+}
+.end{
+
+    margin-bottom: 0;
+}
+
+.skill-row1{
+
+    width: 50%;
+   margin: 50px auto  50px auto;
+   text-align: left;
+   line-height: 2;
+}
+.skill-row2{
+
+    width: 50%;
+   margin: 50px auto  50px auto;
+   text-align: left;
+   line-height: 2;
+}
+.i1{
+    margin-right: 30px;
+    float: left;
+}
+.i2{
+
+    float:right;
+    margin-left: 30px;
+}
